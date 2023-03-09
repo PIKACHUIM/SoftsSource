@@ -1,0 +1,17 @@
+{
+  "url-win": [
+    "https://xxxx.xxxx.xxxx/Tools-Win.json",
+	"https://xxxx.xxxx.xxxx/Tools-Win.json",
+	"https://xxxx.xxxx.xxxx/Tools-Win.json"
+  ],
+  "url-mac": [
+    "https://xxxx.xxxx.xxxx/Tools-Mac.json",
+	"https://xxxx.xxxx.xxxx/Tools-Mac.json",
+	"https://xxxx.xxxx.xxxx/Tools-Mac.json"
+  ],
+  "url-img": [
+    "https://xxxx.xxxx.xxxx/Tools-Img.json",
+	"https://xxxx.xxxx.xxxx/Tools-Img.json",
+	"https://xxxx.xxxx.xxxx/Tools-Img.json"
+  ]
+}
