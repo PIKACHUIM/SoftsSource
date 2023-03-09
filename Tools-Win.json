@@ -9,7 +9,7 @@
     {
       "path": "Booloader-Images",
       "name": "引导管理 & 镜像烧录",
-	  "icon": "Booloader-Images.ico"
+	  "icon": "Booloader-Images.ico",
       "list": [
         {
           "NameDisplay": "BalenaEther",
