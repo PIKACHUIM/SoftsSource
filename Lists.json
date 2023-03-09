@@ -1,17 +1,44 @@
 {
   "url-win": [
-    "https://xxxx.xxxx.xxxx/Tools-Win.json",
-	"https://xxxx.xxxx.xxxx/Tools-Win.json",
-	"https://xxxx.xxxx.xxxx/Tools-Win.json"
+	"https://gitee.com/pikachuim/SoftsSource/raw/master/Tools-Win.json",
+	"https://raw.githubusercontent.com/PIKACHUIM/SoftsSource/master/Tools-Win.json",
+	"https://soft.pika.net.cn/Tools-Win.json",
+	"https://soft.52pika.cn/Tools-Win.json",
+	"https://soft.52pika.com/Tools-Win.json",
+	"https://soft.99pika.cn/Tools-Win.json",
+	"https://soft.99pika.com/Tools-Win.json",
+	"https://cdn-tx1.pika.net.cn/Tools-Win.json",
+	"https://cdn-tx1.52pika.cn/Tools-Win.json",
+	"https://cdn-tx1.52pika.com/Tools-Win.json",
+	"https://cdn-tx1.99pika.cn/Tools-Win.json",
+	"https://cdn-tx1.99pika.com/Tools-Win.json"
   ],
   "url-mac": [
-    "https://xxxx.xxxx.xxxx/Tools-Mac.json",
-	"https://xxxx.xxxx.xxxx/Tools-Mac.json",
-	"https://xxxx.xxxx.xxxx/Tools-Mac.json"
+    "https://gitee.com/pikachuim/SoftsSource/raw/master/Tools-Mac.json",
+	"https://raw.githubusercontent.com/PIKACHUIM/SoftsSource/master/Tools-Mac.json",
+	"https://soft.pika.net.cn/Tools-Mac.json",
+	"https://soft.52pika.cn/Tools-Mac.json",
+	"https://soft.52pika.com/Tools-Mac.json",
+	"https://soft.99pika.cn/Tools-Mac.json",
+	"https://soft.99pika.com/Tools-Mac.json",
+	"https://cdn-tx1.pika.net.cn/Tools-Mac.json",
+	"https://cdn-tx1.52pika.cn/Tools-Mac.json",
+	"https://cdn-tx1.52pika.com/Tools-Mac.json",
+	"https://cdn-tx1.99pika.cn/Tools-Mac.json",
+	"https://cdn-tx1.99pika.com/Tools-Mac.json"
   ],
   "url-img": [
-    "https://xxxx.xxxx.xxxx/Tools-Img.json",
-	"https://xxxx.xxxx.xxxx/Tools-Img.json",
-	"https://xxxx.xxxx.xxxx/Tools-Img.json"
+    "https://gitee.com/pikachuim/SoftsSource/raw/master/Tools-Img.json",
+	"https://raw.githubusercontent.com/PIKACHUIM/SoftsSource/master/Tools-Img.json",
+	"https://soft.pika.net.cn/Tools-Img.json",
+	"https://soft.52pika.cn/Tools-Img.json",
+	"https://soft.52pika.com/Tools-Img.json",
+	"https://soft.99pika.cn/Tools-Img.json",
+	"https://soft.99pika.com/Tools-Img.json",
+	"https://cdn-tx1.pika.net.cn/Tools-Img.json",
+	"https://cdn-tx1.52pika.cn/Tools-Img.json",
+	"https://cdn-tx1.52pika.com/Tools-Img.json",
+	"https://cdn-tx1.99pika.cn/Tools-Img.json",
+	"https://cdn-tx1.99pika.com/Tools-Img.json"
   ]
 }
