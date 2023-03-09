@@ -15,8 +15,7 @@
           "NameDisplay": "BalenaEther",
           "Description": "U盘启动制作工具",
 		  "SoftVersion": "1.43.3",
-		  "DownloadURL": "balenaEtcher-Portable-1.14.3.exe"
-		  "Downloaded?": false,
+		  "DownloadURL": "balenaEtcher-Portable-1.14.3"
         }
       ]
     },
